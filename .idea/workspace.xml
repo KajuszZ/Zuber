@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af4f50db-ebf2-48ab-bee4-3fa224adc570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/google-map.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/buttons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/buttons.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/buttons.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/buttons.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
@@ -55,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607877509693</updated>
-      <workItem from="1607877510789" duration="10389000" />
+      <workItem from="1607877510789" duration="10944000" />
     </task>
     <servers />
   </component>

@@ -24,7 +24,7 @@ body{
 }
 
 .main{
-  height: 78vh;
+  height: 76vh;
   display: flex;
   flex-direction: column;
   overflow: scroll;
@@ -33,6 +33,7 @@ body{
 
 .footer {
   display: flex;
+  height: 10vh;
   width: 100vw;
 }
 
