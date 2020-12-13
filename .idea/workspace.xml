@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af4f50db-ebf2-48ab-bee4-3fa224adc570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Żuber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/google-map.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/buttons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/buttons.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/buttons.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607877509693</updated>
-      <workItem from="1607877510789" duration="5959000" />
+      <workItem from="1607877510789" duration="10389000" />
     </task>
     <servers />
   </component>
@@ -64,6 +67,10 @@
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
     <state x="144" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2752.1122@0.0.2752.1122" timestamp="1607878220026" />
+    <state x="190" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607887214050">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="190" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2752.1122@0.0.2752.1122" timestamp="1607887214050" />
     <state x="365" y="340" key="EditFileWatcherDialog" timestamp="1607877535251">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
@@ -72,10 +79,10 @@
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
     <state x="240" y="319" key="FileChooserDialogImpl/0.0.2752.1122@0.0.2752.1122" timestamp="1607881026159" />
-    <state x="204" y="206" key="SettingsEditor" timestamp="1607879207243">
+    <state x="204" y="206" key="SettingsEditor" timestamp="1607887012385">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>
-    <state x="204" y="206" key="SettingsEditor/0.0.2752.1122@0.0.2752.1122" timestamp="1607879207243" />
+    <state x="204" y="206" key="SettingsEditor/0.0.2752.1122@0.0.2752.1122" timestamp="1607887012385" />
     <state x="358" y="249" key="search.everywhere.popup" timestamp="1607877647481">
       <screen x="0" y="0" width="2752" height="1122" />
     </state>

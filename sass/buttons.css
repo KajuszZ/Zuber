@@ -14,6 +14,11 @@ button {
   cursor: pointer;
 }
 
+.menu-button {
+  height: fit-content;
+  margin-right: 1rem;
+}
+
 .button__text {
   color: #ffffff;
   margin-left: 0.5rem;

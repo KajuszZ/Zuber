@@ -10,45 +10,56 @@ body {
   padding: 0.2rem;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
-  position: absolute;
+  align-items: center;
+  height: 13vh;
   width: 100vw;
 }
 
+.main {
+  height: 78vh;
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+  color: #333333;
+}
+
 .footer {
-  position: absolute;
-  bottom: 0;
   display: flex;
   width: 100vw;
 }
 
-.footer .button {
+.button {
   flex-grow: 1;
 }
 
-/*# sourceMappingURL=style.css.map */
-/*# sourceMappingURL=style.css.map */
-.main {
-  color: #212121;
-}
-
-.card {
-  padding-top: 15vh;
-}
-
 .title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 0.5rem;
   color: #212121;
 }
 
 .title-main {
-  font-size: 3.5rem;
+  font-size: 3.2rem;
 }
 
 .subtitle {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   color: #bdbdbd;
+}
+
+.google-map {
+  width: available;
 }
 
 /*# sourceMappingURL=style.css.map */
