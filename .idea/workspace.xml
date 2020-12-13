@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af4f50db-ebf2-48ab-bee4-3fa224adc570" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Żuber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/buttons.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1lbtErVnDtXwHKZJWDd1t6AA00B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sass/style.scss" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af4f50db-ebf2-48ab-bee4-3fa224adc570" name="Default Changelist" comment="" />
+      <created>1607877509693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607877509693</updated>
+      <workItem from="1607877510789" duration="5959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="144" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607878220026">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="144" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2752.1122@0.0.2752.1122" timestamp="1607878220026" />
+    <state x="365" y="340" key="EditFileWatcherDialog" timestamp="1607877535251">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="365" y="340" key="EditFileWatcherDialog/0.0.2752.1122@0.0.2752.1122" timestamp="1607877535251" />
+    <state x="240" y="319" key="FileChooserDialogImpl" timestamp="1607881026159">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="240" y="319" key="FileChooserDialogImpl/0.0.2752.1122@0.0.2752.1122" timestamp="1607881026159" />
+    <state x="204" y="206" key="SettingsEditor" timestamp="1607879207243">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="204" y="206" key="SettingsEditor/0.0.2752.1122@0.0.2752.1122" timestamp="1607879207243" />
+    <state x="358" y="249" key="search.everywhere.popup" timestamp="1607877647481">
+      <screen x="0" y="0" width="2752" height="1122" />
+    </state>
+    <state x="358" y="249" key="search.everywhere.popup/0.0.2752.1122@0.0.2752.1122" timestamp="1607877647481" />
+  </component>
+</project>

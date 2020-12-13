@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(245, 245, 245, 0.7);
+  font-family: 'Source Sans Pro', sans-serif;
+  text-decoration: none;
+}
+
+body{
+  padding: .2rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  width: 100vw;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  width: 100vw;
+}
+
+.footer .button {
+  flex-grow: 1;
+}
+
+/*# sourceMappingURL=style.css.map */
+
+/*# sourceMappingURL=style.css.map */
+.main {
+  //min-height: 100vh;
+  color: #212121;
+}
+
+.card {
+  padding-top: 15vh;
+}
+
+.title {
+  color: #212121;
+}
+
+.title-main {
+  font-size: 3.5rem;
+}
+
+.subtitle {
+  font-size: 1.3rem;
+  color: #bdbdbd;
+}
