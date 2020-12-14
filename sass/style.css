@@ -1,14 +1,17 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   background-color: rgba(245, 245, 245, 0.7);
   font-family: "Source Sans Pro", sans-serif;
   text-decoration: none;
 }
 
-.content {
+.body {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .header {
@@ -23,6 +26,7 @@
   height: 76vh;
   display: flex;
   flex-direction: column;
+  flex-grow: 1;
   overflow: scroll;
   color: #333333;
 }
