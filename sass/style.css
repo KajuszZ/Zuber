@@ -6,10 +6,6 @@
   text-decoration: none;
 }
 
-body {
-  padding: 0.2rem;
-}
-
 .content {
   display: flex;
   flex-direction: column;
