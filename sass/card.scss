@@ -3,16 +3,24 @@
 .card {
   height: 100%;
   width: 100%;
-  padding: 2rem;
+  padding: 1rem 1rem 0 1rem;
   font-size: 1.2rem;
   box-sizing: border-box;
 }
 
 .card-content {
-  border: solid $text-color;
+  border: solid #21212136;
   padding: 1rem;
 }
 
 .card-map {
   border: solid;
+}
+
+.card-title {
+  display: inline-block;
+  position: relative;
+  bottom: -12px;
+  left: 9px;
+  background-color: rgba(245, 245, 245, 1);
 }
