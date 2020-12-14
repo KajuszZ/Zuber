@@ -3,33 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="af4f50db-ebf2-48ab-bee4-3fa224adc570" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/android-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/android-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/android-icon-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/android-icon-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/android-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/android-icon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/apple-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon/browserconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/ms-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/ms-icon-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/ms-icon-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon/ms-icon-70x70.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +49,7 @@
       <updated>1607877509693</updated>
       <workItem from="1607877510789" duration="12205000" />
       <workItem from="1607968299534" duration="1123000" />
-      <workItem from="1607969569616" duration="8323000" />
+      <workItem from="1607969569616" duration="9005000" />
     </task>
     <servers />
   </component>
