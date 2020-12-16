@@ -4,7 +4,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: rgba(245, 245, 245, 0.7);
   font-family: 'Source Sans Pro', sans-serif;
   text-decoration: none;
 }
@@ -17,6 +16,12 @@
   max-width: 1200px;
 }
 
+.content {
+  height: calc(var(--vh, 1vh) * 100);
+  background-image: url("./../3.png");
+  background-size: cover;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -27,16 +32,16 @@
 .main {
   display: flex;
   flex-direction: column;
-  height: 77vh;
+  height: 78vh;
   overflow: scroll;
   color: #333333;
+
 }
 
 .footer {
   display: flex;
   height: 7vh;
   width: 100vw;
-  background-color: $background-color;
   position: absolute;
   bottom: 0;
   left:0;
@@ -45,11 +50,37 @@
 .button {
   flex-grow: 1;
 }
+@keyframes shake {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(30deg);
+  }
+  20%{
+    transform: rotate(0deg);
+  }
+  30% {
+    transform: rotate(-30deg);
+  }
+  40%{
+    transform: rotate(0deg);
+  }
+  50%{
+    transform: rotate(30deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.button-icon {
+  animation: shake 1s cubic-bezier(0, 0.72, 1, 1) infinite;
+}
 
 .title {
   display: flex;
   flex-direction: column;
-  align-items: center;
   width: 100%;
   padding: .5rem;
   color: $text-color;

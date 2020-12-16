@@ -3,7 +3,7 @@
 .card {
   height: 100%;
   width: 100%;
-  padding: 1rem 1rem 0 1rem;
+  padding: 0.1rem 1rem 0 1rem;;
   font-size: 1.2rem;
   box-sizing: border-box;
 }
@@ -11,6 +11,11 @@
 .card-content {
   border: solid #21212136;
   padding: 1rem;
+  background-color: rgba(245, 245, 245, 0.85);
+}
+
+.map{
+  padding-bottom: 4rem;
 }
 
 .card-map {
@@ -22,5 +27,6 @@
   position: relative;
   bottom: -12px;
   left: 9px;
-  background-color: rgba(245, 245, 245, 1);
+  background-color: rgba(245, 245, 245, 0.7);
+  border-radius: 9%;
 }
