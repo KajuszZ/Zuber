@@ -71,8 +71,8 @@
     transform: rotate(0deg);
   }
 }
-.button-icon {
-  animation: shake 1s cubic-bezier(0, 0.72, 1, 1) infinite;
+.button-icon__shake {
+  animation: shake 0.9s cubic-bezier(0, 0.72, 1, 1) infinite;
 }
 
 .title {
